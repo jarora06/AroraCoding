@@ -1,4 +1,4 @@
-
+# Refer to Rectangle.java file
 public class RectangleClient extends Rectangle{
 	public static void main(String[] args) {
 		Rectangle rec1 = new Rectangle();
